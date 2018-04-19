@@ -1,7 +1,3 @@
 µØÖ·:
 
 http://localhost:8080/anbbs/index
-
-1231231
-12311
-dev
